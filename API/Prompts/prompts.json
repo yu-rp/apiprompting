@@ -1,0 +1,44 @@
+{
+    "test": [
+        [
+            "The question is: [Q] It is used for testing",
+            "masked"
+        ]
+    ],
+    "empty": [
+        [
+            "[Q]",
+            "original"
+        ]
+    ],
+    "sbs": [
+        [
+            "[Q] Let's think again step by step.",
+            "original"
+        ]
+    ],
+    "masked_hint": [
+        [
+            "[Q] (Hint: The answer is related to the unmasked visible regions.)",
+            "masked"
+        ]
+    ],
+    "hint": [
+        [
+            "[Q] (Hint: The answer is probably [R].)",
+            "original"
+        ]
+    ],
+    "iterative": [
+        [
+            "[Q] \n Your previous answer is [R]. Evaluate the quality of the answer and provide a new answer.",
+            "original"
+        ]
+    ],
+    "masked": [
+        [
+            "[Q]",
+            "masked"
+        ]
+    ]
+}

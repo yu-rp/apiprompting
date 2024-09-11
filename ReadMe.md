@@ -65,7 +65,9 @@ Now, there are two ways to try API. We have a python package, with which you can
   [![Static Badge](https://img.shields.io/badge/gradio-demo-green?style=plastic)](https://github.com/yu-rp/apiprompting/tree/master/demo)
 
 * Check out the [video demo](https://github.com/yu-rp/asserts/blob/main/API_Prompting/API_DEMO.mp4).
-  
+
+https://github.com/user-attachments/assets/e60ba0b6-c0e2-45ad-9676-98c5e2288fb4
+
 <p align="right"><a href="#readme-top"><img src=https://img.shields.io/badge/back%20to%20top-red?style=flat
 ></a></p>
 

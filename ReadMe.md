@@ -8,7 +8,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-# [API: Attention Prompting on Image for Large Vision-Language Models]() (ECCV 2024)
+# [API: Attention Prompting on Image for Large Vision-Language Models](https://arxiv.org/abs/2409.17143) (ECCV 2024)
 
 TL;DR (1) - Add an **adaptive mask** onto the image to enhance LVLM performance.
 
